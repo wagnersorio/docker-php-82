@@ -5,11 +5,11 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/wagnersorio/docker-php-81.git
+git clone https://github.com/wagnersorio/docker-php-82.git
 ```
 
 ```sh
-cd docker-php-81/
+cd docker-php-82/
 ```
 
 Remova o versionamento
@@ -86,4 +86,4 @@ composer create-project laravel/laravel example-app
 ```
 
 Acessar o projeto
-[http://example-app.local:8989](http://example-app.local:8989)
+[http://example-app.local:8989](http://example-app.local:8989)git 
